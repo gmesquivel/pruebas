@@ -1,6 +1,7 @@
 public class Prueba {
 	private int atr1;
 	private int atr2;
+	private double atr3;
 	private String atr4;
 
 	public Prueba(int atr1) {
